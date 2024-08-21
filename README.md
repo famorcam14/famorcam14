@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi there, I'm Mickal Famorca 👋🏾
 
-<!--
-**famorcam14/famorcam14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an aspiring data scientist currently developing my abilities via a Master's program at Boston University 🎓 🟥 🐾 ⬜. I recently completed a year long data science fellowship with The Knowledge House, where I enhanced my technical skill set in programming, data cleaning, analysis, modeling, and visualization using Python and SQL. You can find my other GitHub profile with my previous projects here: [GitHub](https://github.com/famorcam)
 
-Here are some ideas to get you started:
+## 🔧 Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Programming:** Python
+- **Databases:** SQL
+- **Data Manipulation:** Pandas
+- **Machine Learning:** Scikit-learn (sklearn)
+- **Statistical Analysis:** Advanced statistical techniques
+- **Data Visualization:** Tableau
+- **Cloud Platforms:** AWS
+
+## 🌱 Currently Learning
+
+- Deep learning and neural networks
+- Advanced data visualization techniques
+- Cloud services and big data analytics
+
+
+## 📫 Get in Touch
+
+Feel free to reach out to me via [email](mailto:famorcam@bu.edu) or connect with me on [LinkedIn](https://www.linkedin.com/in/mickalfamorca/)
+
+Let's collaborate and create impactful data-driven solutions together!
+
+
+<!---
+famorcam/famorcam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
